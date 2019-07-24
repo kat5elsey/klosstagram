@@ -1,0 +1,84 @@
+
+
+.logo{
+  border: 1px solid grey;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  justify-content: flex-start;
+  background-color: #F6EFD4;
+}
+
+#search{
+  border: 1px solid grey;
+  font-size: 20px;
+  margin-left: 50%;
+  margin-top: 8%;
+  margin-bottom: 10%;
+  padding-right: 4%;
+  display: flex;
+  align-items: flex-end;
+}
+
+.row1{
+margin-top: 20px;
+}
+
+.orangecontainer{
+  border: 1px solid grey;
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+  align-content: stretch;
+  background-color: #FAD5DC;
+
+}
+
+.cats{
+  height: 245px;
+  width: 245px;
+}
+
+#fosterfam_logo{
+  height: 75px;
+
+}
+
+#kittenxladyprofile{
+  height: 150px;
+  border-radius: 50%;
+  box-shadow: 1px 5px grey;
+}
+
+.profilecontainer{
+  border: 1px solid grey;
+  display: flex;
+
+}
+
+img{
+  margin: 20px;
+}
+
+.fonty2{
+border: 1px solid grey;
+padding: 1.5%;
+margin-right:1%;
+}
+
+#fosterfamlogo{
+  height: 200px;
+}
+
+#currentfosterbox{
+  border: 1px solid grey;
+  padding: 1.5%;
+}
+
+#followbutton{
+  height: 50px;
+}
+
+.fonty2{
+  font-family: 'Signika', sans-serif;
+}
